@@ -39,9 +39,6 @@ This project demonstrates how to work with third-party APIs, asynchronous JavaSc
 * Async/Await
 * API Requests
 * DOM Manipulation
-* Form Handling
-* Random Data Selection
-* Dynamic Content Rendering
 
 ## Future Enhancements
 
@@ -49,7 +46,6 @@ This project demonstrates how to work with third-party APIs, asynchronous JavaSc
 * Display multiple GIF results at once
 * Add loading indicators while data is being fetched
 * Allow users to favorite GIFs
-* Improve mobile responsiveness
 
 ## Author
 
