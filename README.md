@@ -17,9 +17,9 @@ This project demonstrates how to work with third-party APIs, asynchronous JavaSc
 
 ## Technologies Used
 
-* HTML5
-* CSS3
-* JavaScript (ES6)
+* HTML
+* CSS
+* JavaScript
 * Axios
 * GIPHY API
 
@@ -42,22 +42,6 @@ This project demonstrates how to work with third-party APIs, asynchronous JavaSc
 * Form Handling
 * Random Data Selection
 * Dynamic Content Rendering
-
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/aoosterbaan115/GIPHY-PARTY1.git
-```
-
-Navigate to the project folder:
-
-```bash
-cd GIPHY-PARTY1
-```
-
-Open `index.html` in your preferred browser.
 
 ## Future Enhancements
 
