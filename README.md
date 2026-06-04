@@ -47,8 +47,3 @@ This project demonstrates how to work with third-party APIs, asynchronous JavaSc
 * Add loading indicators while data is being fetched
 * Allow users to favorite GIFs
 
-## Author
-
-Amy Oosterbaan
-
-Created as part of a web development bootcamp project to practice working with APIs and JavaScript.
